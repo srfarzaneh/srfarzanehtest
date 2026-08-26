@@ -31,21 +31,21 @@
    توکن‌های طراحی
    ========================================================================== */
 :root {
-  --ink: #14181c;
-  --surface: #1c2227;
-  --surface-raised: #262e35;
-  --border: #333d45;
+  --ink: #f7f5f0;
+  --surface: #ffffff;
+  --surface-raised: #f0eee9;
+  --border: #dedbd4;
 
   --accent: #d9722c;
   --accent-soft: #f0a868;
-  --steel: #7fa0b3;
+  --steel: #68777f;
 
-  --paper: #ede9e1;
-  --paper-dim: #a9a89f;
+  --paper: #292826;
+  --paper-dim: #6f6c66;
 
   --radius: 10px;
   --radius-lg: 16px;
-  --shadow: 0 12px 30px -12px rgba(0, 0, 0, 0.55);
+  --shadow: 0 12px 30px -12px rgba(60, 50, 40, 0.14);
 
   --font-body: "Vazirmatn", Tahoma, "Segoe UI", sans-serif;
   --font-mono: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, monospace;
